@@ -1,0 +1,17 @@
+{
+  "name": "sistema",
+  "version": "0.0.1",
+  "description": "sistema sms",
+  "authors": [
+    "JONATHAN YOUDY PARRA AGUILAR"
+  ],
+  "license": "MIT",
+  "homepage": "sistema",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

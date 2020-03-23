@@ -1,0 +1,23 @@
+{
+  "name": "sistema",
+  "version": "0.0.1",
+  "description": "sistema_sms",
+  "keywords": [
+    "JONATHAN",
+    "YOUDY",
+    "PARRA",
+    "AGUILAR"
+  ],
+  "authors": [
+    "JONATHAN YOUDY PARRA AGUILAR"
+  ],
+  "license": "MIT",
+  "homepage": "sistema",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
